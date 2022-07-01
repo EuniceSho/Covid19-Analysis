@@ -9,7 +9,7 @@ https://github.com/CSSEGISandData/COVID-19
 
 ----
 # Data Transformation
-![Covid19-Dashboard3](https://user-images.githubusercontent.com/107527156/175821110-b7b7aa2a-5250-4d1d-9d3c-5bc143ac5f79.JPG)
+![Covid19-Dashboard](https://user-images.githubusercontent.com/107527156/176888754-4b7860d0-099b-46ea-b41a-c38095513b04.JPG)
 
 ----
 # Findings 
